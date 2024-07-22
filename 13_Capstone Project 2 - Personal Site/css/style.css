@@ -1,0 +1,22 @@
+body{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    background-color:bisque;
+}
+
+
+.imgFond{
+    background-image: url("https://cdn.vectorstock.com/i/1000v/73/95/pixel-game-background-vector-15317395.jpg");
+    background-position: top;
+    height: 700px;
+    
+}
+.pictureOfMe{
+    border-radius: 50%;
+    height: 300px;
+}
+.summary{
+    font-size: medium;
+}
+#WorkExperience{
+    background-color: bisque;
+}
